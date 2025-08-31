@@ -40,9 +40,6 @@ Requirement Analysis and Modeling: Studying and refining requirements to identif
 Requirement Validation: Reviewing requirements with stakeholders to ensure they are complete, correct, and meet their needs.
 
 # Types of Requirements.
-## Absolutely, Ayo! Based on the context of the FeatureForge project page, here's how you can approach the “Types of Requirements” section in your `README.md` for the booking management system:
-
----
 
 ## Types of Requirements
 
