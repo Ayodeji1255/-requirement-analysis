@@ -79,3 +79,55 @@ Non-functional requirements describe the system’s operational characteristics 
 - The platform should support up to 10,000 concurrent users without degradation.
 - The UI should be responsive across mobile, tablet, and desktop devices.
 - The system must maintain 99.9% uptime with automated failover mechanisms.
+This instruction is part of a larger project called **FeatureForge: Crafting Your Project Blueprint**, hosted on the ALX Africa Intranet. The project centers on mastering **Requirement Analysis**—a foundational phase in the software development lifecycle (SDLC)—by documenting and visualizing system requirements for a **booking management system**.
+
+Here’s a breakdown of what this specific task is asking for, based on the surrounding page content:
+
+---
+
+### Purpose of the Task
+
+You're being asked to **illustrate the role of Use Case Diagrams** in Requirement Analysis by:
+- Explaining what they are
+- Highlighting their benefits
+- Designing one for the booking system
+- Embedding it into your project documentation
+
+This contributes to the overall goal of producing **industry-standard documentation** that clearly communicates system functionality and user interactions.
+
+---
+
+### What to Include in the README.md
+
+Add a new section titled **“Use Case Diagrams”** and cover the following:
+
+#### 1. **Definition**
+Explain that a Use Case Diagram is a visual representation of the interactions between **users (actors)** and the **system (use cases)**. It helps stakeholders understand what the system will do from a user's perspective.
+
+#### 2. **Benefits**
+List key advantages such as:
+- Clarifying system functionality
+- Identifying user roles and goals
+- Supporting communication between technical and non-technical stakeholders
+- Serving as a blueprint for further design and development
+
+#### 3. **Diagram Creation**
+Use a tool like **Draw.io** to design a Use Case Diagram for the booking system. Based on the project context, your diagram should likely include:
+
+| Actor             | Use Cases                          |
+|------------------|------------------------------------|
+| Guest/User        | Search Listings, Book Stay, Make Payment, View Booking |
+| Host              | Create Listing, Manage Availability, View Bookings     |
+| Admin             | Manage Users, Monitor Transactions, Resolve Issues     |
+
+
+---
+
+### Why This Matters
+
+This task reinforces my ability to:
+- Translate abstract requirements into concrete visuals
+- Use diagrams to support requirement validation and stakeholder alignment
+- Build documentation that mirrors real-world software planning standards
+
+It’s part of a structured learning path that builds toward defining **Acceptance Criteria**, **Functional/Non-functional Requirements**, and ultimately a full blueprint for scalable system development.
