@@ -38,3 +38,44 @@
 Requirement Analysis and Modeling: Studying and refining requirements to identify conflicts, ambiguities, and dependencies using models.
 
 Requirement Validation: Reviewing requirements with stakeholders to ensure they are complete, correct, and meet their needs.
+
+# Types of Requirements.
+## Absolutely, Ayo! Based on the context of the FeatureForge project page, here's how you can approach the “Types of Requirements” section in your `README.md` for the booking management system:
+
+---
+
+## Types of Requirements
+
+In software development, requirements are typically categorized into **Functional** and **Non-functional** types. This distinction helps teams clarify what the system should do versus how it should perform.
+
+### Functional Requirements
+
+Functional requirements describe the specific behaviors, features, and interactions the system must support. They define what the system should do to meet user and business needs.
+
+**Definition:**  
+Functional requirements specify the core operations and services the system must provide. These are derived directly from user needs and use cases.
+
+**Examples for the Booking Management System:**
+- Users can search for available properties based on location, dates, and number of guests.
+- Hosts can list new properties with details like price, amenities, and availability.
+- Users can make a booking and receive confirmation via email.
+- Admins can view and manage all bookings through a dashboard.
+- Users can cancel or modify their bookings within a specified time window.
+
+These requirements directly support the core functionality of the booking platform and are essential for its usability.
+
+---
+
+### Non-functional Requirements
+
+Non-functional requirements define the quality attributes, constraints, and performance standards of the system. They focus on *how* the system operates rather than *what* it does.
+
+**Definition:**  
+Non-functional requirements describe the system’s operational characteristics such as performance, security, scalability, and usability.
+
+**Examples for the Booking Management System:**
+- The system should load search results within 2 seconds under normal traffic.
+- All user data must be encrypted both in transit and at rest.
+- The platform should support up to 10,000 concurrent users without degradation.
+- The UI should be responsive across mobile, tablet, and desktop devices.
+- The system must maintain 99.9% uptime with automated failover mechanisms.
