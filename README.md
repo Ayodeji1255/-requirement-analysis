@@ -81,38 +81,17 @@ Non-functional requirements describe the system’s operational characteristics 
 - The system must maintain 99.9% uptime with automated failover mechanisms.
 This instruction is part of a larger project called **FeatureForge: Crafting Your Project Blueprint**, hosted on the ALX Africa Intranet. The project centers on mastering **Requirement Analysis**—a foundational phase in the software development lifecycle (SDLC)—by documenting and visualizing system requirements for a **booking management system**.
 
-Here’s a breakdown of what this specific task is asking for, based on the surrounding page content:
-
 ---
 
 ### Purpose of the Task
 
-You're being asked to **illustrate the role of Use Case Diagrams** in Requirement Analysis by:
-- Explaining what they are
-- Highlighting their benefits
-- Designing one for the booking system
-- Embedding it into your project documentation
-
 This contributes to the overall goal of producing **industry-standard documentation** that clearly communicates system functionality and user interactions.
 
 ---
-
-### What to Include in the README.md
-
-Add a new section titled **“Use Case Diagrams”** and cover the following:
-
-#### 1. **Definition**
-Explain that a Use Case Diagram is a visual representation of the interactions between **users (actors)** and the **system (use cases)**. It helps stakeholders understand what the system will do from a user's perspective.
-
-#### 2. **Benefits**
-List key advantages such as:
 - Clarifying system functionality
 - Identifying user roles and goals
 - Supporting communication between technical and non-technical stakeholders
 - Serving as a blueprint for further design and development
-
-#### 3. **Diagram Creation**
-Use a tool like **Draw.io** to design a Use Case Diagram for the booking system. Based on the project context, your diagram should likely include:
 
 | Actor             | Use Cases                          |
 |------------------|------------------------------------|
@@ -130,4 +109,32 @@ This task reinforces my ability to:
 - Use diagrams to support requirement validation and stakeholder alignment
 - Build documentation that mirrors real-world software planning standards
 
-It’s part of a structured learning path that builds toward defining **Acceptance Criteria**, **Functional/Non-functional Requirements**, and ultimately a full blueprint for scalable system development.
+- # Acceptance Criteria
+---
+
+## Importance of Acceptance Criteria in Requirement Analysis
+
+Acceptance Criteria are essential in Requirement Analysis because they define the specific conditions under which a feature is considered complete and functional. In the context of the software development lifecycle (SDLC), they serve as a bridge between business goals and technical implementation by:
+
+- **Clarifying Expectations**: They ensure that developers, designers, and stakeholders have a shared understanding of what “done” looks like.
+- **Reducing Ambiguity**: By setting measurable and testable conditions, they eliminate vague requirements and prevent scope creep.
+- **Guiding Testing and Validation**: QA teams use acceptance criteria to create test cases and validate whether the feature meets user needs.
+- **Supporting Agile Collaboration**: They help teams prioritize work and maintain alignment during iterative development cycles.
+
+In the *FeatureForge* project, learners are expected to define acceptance criteria to simulate real-world development standards and ensure alignment with user and business goals.
+
+---
+
+## Acceptance Criteria for the Checkout Feature
+
+For a booking management system, the **Checkout** feature might involve finalizing a reservation and processing payment. Here’s a sample set of acceptance criteria:
+
+```markdown
+### Acceptance Criteria for Checkout Feature
+
+- The user must be able to review booking details (dates, location, price) before confirming.
+- The system must validate payment information and display errors for invalid entries.
+- Upon successful payment, the user receives a confirmation message and booking reference.
+- The booking status must update to “Confirmed” in the user dashboard.
+- The system must send a confirmation email with booking details within 5 minutes.
+- If payment fails, the user is prompted to retry or choose a different payment method.
