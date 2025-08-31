@@ -124,9 +124,6 @@ Acceptance Criteria are essential in Requirement Analysis because they define th
 
 For a booking management system, the **Checkout** feature might involve finalizing a reservation and processing payment. Here’s a sample set of acceptance criteria:
 
-```markdown
-## Acceptance Criteria for Checkout Feature
-
 - The user must be able to review booking details (dates, location, price) before confirming.
 - The system must validate payment information and display errors for invalid entries.
 - Upon successful payment, the user receives a confirmation message and booking reference.
