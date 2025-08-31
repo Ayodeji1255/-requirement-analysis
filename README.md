@@ -118,8 +118,6 @@ Acceptance Criteria are essential in Requirement Analysis because they define th
 - **Guiding Testing and Validation**: QA teams use acceptance criteria to create test cases and validate whether the feature meets user needs.
 - **Supporting Agile Collaboration**: They help teams prioritize work and maintain alignment during iterative development cycles.
 
-In the *FeatureForge* project, learners are expected to define acceptance criteria to simulate real-world development standards and ensure alignment with user and business goals.
-
 ---
 
 ## Acceptance Criteria for the Checkout Feature
@@ -127,7 +125,7 @@ In the *FeatureForge* project, learners are expected to define acceptance criter
 For a booking management system, the **Checkout** feature might involve finalizing a reservation and processing payment. Here’s a sample set of acceptance criteria:
 
 ```markdown
-### Acceptance Criteria for Checkout Feature
+## Acceptance Criteria for Checkout Feature
 
 - The user must be able to review booking details (dates, location, price) before confirming.
 - The system must validate payment information and display errors for invalid entries.
