@@ -6,11 +6,11 @@
 
    ## Elicitation: This is the process of gathering requirements from all relevant stakeholders, including customers, end-users, business managers, and domain experts. Techniques often include interviews, surveys, workshops, and observing existing processes.
 
-Analysis and Negotiation: The gathered requirements are analyzed for feasibility, consistency, and completeness. Conflicts or ambiguities between different stakeholder needs are identified and resolved through negotiation. This step ensures that the requirements are technically viable and aligned with business goals.
+# Analysis and Negotiation: The gathered requirements are analyzed for feasibility, consistency, and completeness. Conflicts or ambiguities between different stakeholder needs are identified and resolved through negotiation. This step ensures that the requirements are technically viable and aligned with business goals.
 
-Documentation: All finalized requirements are formally documented in a structured and detailed manner. This includes both functional requirements (what the system must do, e.g., "The user shall be able to log in with a username and password") and non-functional requirements (how the system should perform, e.g., "The system shall respond to login requests within 2 seconds")
+# Documentation: All finalized requirements are formally documented in a structured and detailed manner. This includes both functional requirements (what the system must do, e.g., "The user shall be able to log in with a username and password") and non-functional requirements (how the system should perform, e.g., "The system shall respond to login requests within 2 seconds")
 
-Validation: The documented requirements are reviewed with stakeholders to ensure they accurately reflect their needs and expectations. This is a crucial step to confirm that the team is building the "right" product before development begins.
+# Validation: The documented requirements are reviewed with stakeholders to ensure they accurately reflect their needs and expectations. This is a crucial step to confirm that the team is building the "right" product before development begins.
 
 # Why is Requirement Analysis Important?
 
@@ -31,9 +31,9 @@ Validation: The documented requirements are reviewed with stakeholders to ensure
 
 ## Requirement Gathering: The process of collecting needs and constraints from stakeholders to define project scope and goals.
 
--,* Requirement Elicitation: A systematic approach to discover and understand the requirements from all relevant sources.
+ Requirement Elicitation: A systematic approach to discover and understand the requirements from all relevant sources.
 
--,* Requirement Documentation: Formally writing down all identified requirements in a clear, consistent, and organized manner.
+ Requirement Documentation: Formally writing down all identified requirements in a clear, consistent, and organized manner.
 
 Requirement Analysis and Modeling: Studying and refining requirements to identify conflicts, ambiguities, and dependencies using models.
 
